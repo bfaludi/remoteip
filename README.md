@@ -1,4 +1,4 @@
-# remoteip
+# remoteip [![](https://travis-ci.org/bfaludi/remoteip.svg?branch=master)](https://travis-ci.org/bfaludi/remoteip)
 
 Detect the first valid remote IPv4 address from a request in Go. During the process, it filters out the private networks and try to find the first non-proxy address.
 
